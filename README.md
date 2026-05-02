@@ -1,1 +1,2 @@
-Generative Ai course 
+Generative Ai course krish
+  

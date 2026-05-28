@@ -1,2 +1,2 @@
-GenerativeAI Course by Krish Naik
+Generative AI Course by Krish Naik
   
